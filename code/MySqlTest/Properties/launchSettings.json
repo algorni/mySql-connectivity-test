@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MySqlTest": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
